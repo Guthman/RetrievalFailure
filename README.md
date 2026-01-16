@@ -1,7 +1,7 @@
 # Predictions of satellite retrieval failures of air quality using machine learning
 
 ## Requirements
-- python 3.7 or newer
+- python 3.7 >= 3.9
 - numpy
 - pandas
 - xarray

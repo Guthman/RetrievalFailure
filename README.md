@@ -2,13 +2,7 @@
 
 ## Requirements
 - python 3.7 >= 3.9
-- numpy
-- pandas
-- xarray
-- matplotlib
-- joblib
-- scikit-learn (sklearn)
-- imbalanced-learn (imblearn)
+- see requirements.txt for package versions
 
 
 ## Scripts
